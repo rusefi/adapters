@@ -64,6 +64,9 @@ jobs:
           "vr":"sienna"
           }
 
+    - name: Showing Output Folder
+      run: ls -l pinouts
+
     - name: Upload Pinouts
       env:
         pass: ${{ secrets.RUSEFI_SSH_PASS }}
