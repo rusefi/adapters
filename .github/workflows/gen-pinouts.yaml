@@ -56,6 +56,7 @@ jobs:
           "hs":"indigo",
           "ign":"magenta",
           "inj":"maroon",
+          "wbo":"cyan",
           "ls":"lightgreen",
           "mr":"firebrick",
           "pgnd":"coral",
